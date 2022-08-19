@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: security-learn
+  security:
+    user:
+      name: test
+      password: 123456
